@@ -1,4 +1,4 @@
-![logo](https://github.com/AdithyaNagaraj2903/Adithya_Nagaraj29/blob/main/github-header-image.png)
+![logo](https://github.com/AdithyaNagaraj2903/AdithyaNagaraj2903/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Adithya Nagaraj</h1>
 <h3 align="center">Aspiring SQL Developer</h3>
 
